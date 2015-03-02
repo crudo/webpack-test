@@ -1,0 +1,6 @@
+body:before{
+    content: "APP";
+    display: block;
+    color: black;
+    font-size: 24px;
+}
