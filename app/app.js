@@ -1,3 +1,3 @@
-require("./styles/app.css")
+require("./styles/app.scss");
 
 document.write(require("./content.js"));
